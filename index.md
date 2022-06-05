@@ -7,3 +7,7 @@ Here's what I need to do for today:
 2. Drink
 3. Play
 4. Repeat
+
+ostrich
+
+![alt text](th.jfif)
